@@ -5,8 +5,11 @@ Expand ~/
 ```js
 expandHomeDir = require('expand-home-dir')
 
-expandHomeDir('~/')
-// => /home/azer
+expandHomeDir('~')
+// => /Users/azer
+
+expandHomeDir('~/foo/bar/qux.corge')
+// => /Users/azer/foo/bar/qux.corge
 ```
 
 ## Install
