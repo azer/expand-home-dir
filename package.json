@@ -1,6 +1,6 @@
 {
   "name": "expand-home-dir",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Expand ~/",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "directory"
   ],
   "repository": {
-    "url": "git@github.com:azer\/expand-home-dir.git",
+    "url": "git@github.com:azer/expand-home-dir.git",
     "type": "git"
   },
   "author": "azer",
